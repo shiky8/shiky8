@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm mohamed shahat (shiky)</h1>
-<h3 align="center">A young-dumb  penetration tester</h3>
+<h3 align="center">A young-dumb 😄 penetration tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiky8&label=Profile%20views&color=0e75b6&style=flat" alt="shiky8" /> </p>
 
