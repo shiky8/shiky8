@@ -22,18 +22,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiky8" alt="shiky8" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shiky49184928" target="blank"><img src="https://img.shields.io/twitter/follow/shiky49184928?logo=twitter&style=for-the-badge" alt="shiky49184928" /></a> </p>
 
 - 🔭 I’m currently working on **Cyber security projects**
 
 - 👯 I’m looking to collaborate on **any new Cyber security project**
 
-- 📫 How to reach me **mohamedshahat028@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shiky49184928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiky49184928" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-shahat-a7911116b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-shahat-a7911116b/" height="30" width="40" /></a>
 <a href="https://fb.com/100009465105084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009465105084" height="30" width="40" /></a>
 </p>
 
